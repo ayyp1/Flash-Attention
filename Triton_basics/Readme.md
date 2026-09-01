@@ -3,7 +3,7 @@
 This folder contains small Triton projects and experiments completed while learning the framework, prior to implementing the Flash Attention kernel.
 
 
-###Vector Addition
+### Vector Addition
  
 See [Vector_Addition.ipynb](./Vector_Addition.ipynb) for full benchmark.
  
