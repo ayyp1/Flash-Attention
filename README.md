@@ -2,7 +2,7 @@
 
 A simplified Triton implementation of Flash Attention with forward and backward passes.
 
-For the math behind it, check out my blog: [Understanding Flash Attention](https://ashishkpokharel.com.np/blogs/flash-attention/)
+For the math behind it, check out my blog: [Flash Attention: The Hidden Gem](https://ashishkpokharel.com.np/blogs/flash-attention/)
 
 ## What's here
 
